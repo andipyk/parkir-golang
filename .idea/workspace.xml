@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ceee03b0-352d-4f3c-94ad-8f8812764a9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tugas05-serverparkir.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parkir_client/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parkir_server/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parkirpb/parkir.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/chilts/sid/.codeclimate.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/chilts/sid/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/chilts/sid/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/chilts/sid/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/chilts/sid/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/chilts/sid/sid.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/mux.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/regexp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/route.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/gorilla/mux/test_helpers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/path.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/julienschmidt/httprouter/tree.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/atomic/.codecov.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/atomic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/atomic/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/atomic/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/atomic/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/atomic/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/atomic/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/atomic/atomic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/atomic/error.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/atomic/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/atomic/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/atomic/string.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/multierr/.codecov.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/multierr/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/multierr/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/multierr/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/multierr/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/multierr/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/multierr/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/multierr/error.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/multierr/glide.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/multierr/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/multierr/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/multierr/go113.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/.codecov.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/.readme.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/FAQ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/buffer/buffer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/buffer/pool.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/checklicense.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/encoder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/error.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/field.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/glide.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/global.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/global_go112.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/global_prego112.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/http_handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/internal/bufferpool/bufferpool.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/internal/color/color.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/internal/exit/exit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/level.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/options.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/sink.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/stacktrace.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/sugar.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/time.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/writer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/console_encoder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/core.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/encoder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/entry.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/error.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/field.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/hook.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/increase_level.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/json_encoder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/level.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/level_strings.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/marshaler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/memory_encoder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/sampler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/tee.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/go.uber.org/zap/zapcore/write_syncer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/modules.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fjVx4KjPcg5x7iabUlqIZMs5jG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gowork\src\tugas05-serverparkir\hello" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gowork\src\tugas05-serverparkir" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/andipyk/tugas05-serverparkir/parkir_client">
+    <configuration name="go build github.com/andipyk/tugas05-serverparkir" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="tugas05-serverparkir" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/andipyk/tugas05-serverparkir" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/andipyk/tugas05-serverparkir/parkir_client" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="tugas05-serverparkir" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/parkir_client/client.go" />
+      <package value="github.com/andipyk/tugas05-serverparkir/parkir_client" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/andipyk/tugas05-serverparkir/parkir_server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="tugas05-serverparkir" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/parkir_server/server.go" />
+      <package value="github.com/andipyk/tugas05-serverparkir/parkir_server" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHello in github.com/andipyk/tugas05-serverparkir/hello" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="tugas05-serverparkir" />
+      <working_directory value="$PROJECT_DIR$/hello" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/andipyk/tugas05-serverparkir/hello" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestHello$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/andipyk/tugas05-serverparkir/parkir_client" />
+        <item itemvalue="Go Build.go build github.com/andipyk/tugas05-serverparkir/parkir_server" />
+        <item itemvalue="Go Build.go build github.com/andipyk/tugas05-serverparkir" />
+        <item itemvalue="Go Test.TestHello in github.com/andipyk/tugas05-serverparkir/hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ceee03b0-352d-4f3c-94ad-8f8812764a9e" name="Default Changelist" comment="" />
+      <created>1596731731778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596731731778</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="245" key="#Go_Modules" timestamp="1596732845907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="245" key="#Go_Modules/0.0.1536.824@0.0.1536.824" timestamp="1596732845907" />
+    <state x="519" y="232" key="#Notifications" timestamp="1596912510247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="519" y="232" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1596912510247" />
+    <state x="622" y="314" key="Github.ShareDialog" timestamp="1596912462049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="622" y="314" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1596912462049" />
+    <state x="589" y="34" key="Github.UntrackedFilesDialog" timestamp="1596912431734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="589" y="34" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596912431734" />
+    <state width="746" height="119" key="GridCell.Tab.0.bottom" timestamp="1596912512175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596912512175" />
+    <state width="746" height="119" key="GridCell.Tab.0.center" timestamp="1596912512174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="119" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596912512174" />
+    <state width="746" height="119" key="GridCell.Tab.0.left" timestamp="1596912512174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="119" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596912512174" />
+    <state width="746" height="119" key="GridCell.Tab.0.right" timestamp="1596912512175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="119" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596912512175" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596912524038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596912524038" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package parkir;
+option go_package = "parkirpb";
+
+message ParkirRequest {
+
+}
+
+message ParkirResponse {
+
+}
+
+
+service ParkirService {
+
+}
